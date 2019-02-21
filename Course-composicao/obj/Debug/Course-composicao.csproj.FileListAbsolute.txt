@@ -1,0 +1,7 @@
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\obj\Debug\Course-composicao.csprojResolveAssemblyReference.cache
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\obj\Debug\Course-composicao.csproj.CoreCompileInputs.cache
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\bin\Debug\Course-composicao.exe.config
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\bin\Debug\Course-composicao.exe
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\bin\Debug\Course-composicao.pdb
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\obj\Debug\Course-composicao.exe
+C:\Users\valdir.correia\source\repos\Course-composicao\Course-composicao\obj\Debug\Course-composicao.pdb
